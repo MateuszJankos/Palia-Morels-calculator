@@ -4,4 +4,3 @@ num3 = float(30)
 
 result = (num3 - num2) * num1
 print(round(result))
-
