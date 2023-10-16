@@ -6,5 +6,5 @@ result = (num3 - num2) * num1
 stacks = float(result / 30)
 rows = float(stacks / 8)
 print("Needed Morels: ", result)
-print("Stacks: ", stacks)
 print("Rows: ", rows)
+print("Stacks: ", stacks)
